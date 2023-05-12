@@ -1,0 +1,9 @@
+# python 3.10.5 for arm64
+# arm64 Apple M1
+fastparquet==0.8.1
+pyarrow==8.0.0
+openpyxl==3.0.10
+numpy==1.23.4
+githubdata==12.1.1
+mirutil==21.5.1
+persiantools==3.0.1
